@@ -1,3 +1,3 @@
 Feature: Placing an order
 
-  customer places an order for a smoothie 
+  customer places an order for a smoothie
